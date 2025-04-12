@@ -1,0 +1,105 @@
+.banner{
+    display: flex;
+    align-items: start;
+    gap: 50px;
+    
+}
+
+.menu{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 140px;
+    padding-left: 190px;
+}
+
+nav{
+    display: flex;
+    gap: 40px;
+
+}
+
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.reclama{
+        font-size: 50px;
+        margin-top: 49px;
+}
+
+.buttom{
+    padding-top: 100px;
+    padding-right: 200px;
+    display: flex;
+    gap: 150px;
+    font-size: 40px;
+}
+
+.btn{
+    padding: 10px 50px;
+}
+
+.onuc{
+    font-size: 40px;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.brendy{
+    width: 100%;
+    font-size: 40px;
+}
+
+.shablon{
+    display: flex;
+justify-content: space-around;
+}
+
+.item{
+    background-color: rgb(255, 243, 228);
+    border-radius: 50px;
+    text-align: center;
+}
+
+.imet{
+    background-color: #954848;
+    border-radius: 70px;
+    position: relative;
+    height: 720px;
+    background-image: url(img/in.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 20px 66px;
+   
+}
+
+.tristorinka{
+    height: 100vh;
+    padding: 50px;
+}
+
+.ttext{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.ttext p{
+    width: 200px;
+}
+
+.t1{
+    position: absolute;
+    left: 0;
+    top: 0;
+
+}
